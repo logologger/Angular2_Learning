@@ -1,1 +1,1 @@
-Angular 2 template
+Angular 2 template by Bucky
